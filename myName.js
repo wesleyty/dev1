@@ -1,0 +1,1 @@
+var x = "Love your enemies";
